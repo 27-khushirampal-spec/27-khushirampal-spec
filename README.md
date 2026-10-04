@@ -130,8 +130,6 @@ Comprehensive financial planning exercise covering **financial profiling, cash f
 ### 📈 Nifty FMCG Equity Portfolio
 Construction and evaluation of an **equity portfolio in the Nifty FMCG sector**, focusing on portfolio construction, performance evaluation and investment analysis.
 
-### 📉 Tata Power – Fundamental & Technical Analysis
-Fundamental and technical analysis of **Tata Power Company Limited** from an equity research perspective, covering financial performance, valuation and technical indicators.
 
 ---
 
